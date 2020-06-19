@@ -7,7 +7,7 @@
 <title>Prodes</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css"https://github.com/Henriquegolden/Prodes-pca2/commit/c136c7c9c06b94cd8ebc18fa3000e8ddea52a17c#diff-c7a628cba22e28eb17b5f5c6ae2a266a">
+<link rel="stylesheet" type="text/css"https://henriquegolden.github.io/Prodes-pca2/css/styles.css">
 </head>
 <body>
   <script>
