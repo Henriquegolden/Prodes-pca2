@@ -1,13 +1,11 @@
-
 # https://henriquegolden.github.io/Prodes-pca2/.
-
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
 <title>Prodes</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" type="text/css"https://henriquegolden.github.io/Prodes-pca2/css/styles.css">
+<link rel="stylesheet" type="text/css" href="https://henriquegolden.github.io/Prodes-pca2/css/styles.css">
 </head>
 <body>
   <script>
