@@ -1,4 +1,4 @@
-body{margin:20; padding:0; font-size:20px; font-family:Times new roman;font color: black; background: url(imagens/cenario.jpg);}
+body{margin:20; padding:0; font-size:20px; font-family:Times new roman;font color: black; background: url(https://github.com/Henriquegolden/github.io-Prodes/tree/master/imagens/cenario.jpg);}
 
 
 .clear:after{content:"."; display:block; height:0; clear:both; visibility:hidden; line-height:0;}
@@ -54,7 +54,7 @@ background-color:black;}
 
 /*----------------------------------back to top------------------------------------*/
 a[href="#top"]
-{position:fixed; top: 90%; right:40px; font-size: 20px; font-family: Arial; background: url(imagens/cenario.jpg); }
+{position:fixed; top: 90%; right:40px; font-size: 20px; font-family: Arial; background: url(https://github.com/Henriquegolden/github.io-Prodes/tree/master/imagens/cenario.jpg); }
 /*-------------------------------box---------------------------------------*/
 
 section#first { display: block; width: calc(95% - 150px); float: right;
