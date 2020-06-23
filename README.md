@@ -1,5 +1,3 @@
-# https://henriquegolden.github.io/Prodes-pca2/.
-
 <html lang="pt-br">
 <head>
 <title>Prodes</title>
